@@ -31,9 +31,8 @@ npx gleb
    │      Twitter: https://twitter.com/bahmutov                               │
    │     LinkedIn: https://linkedin.com/in/bahmutov                           │
    │                                                                          │
-   │   Go on, give https://github.com/cypress-io/cypress a ⭐️                 │
-   │                                                                          │
    ╰──────────────────────────────────────────────────────────────────────────╯
+   Go on, give https://github.com/cypress-io/cypress a ⭐️
 ```
 
 ### Small print

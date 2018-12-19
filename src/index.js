@@ -13,11 +13,7 @@ const lines = [
   bold('    Slides: ') + blue('https://slides.com/bahmutov'),
   bold('    GitHub: ') + blue('https://github.com/bahmutov'),
   bold('   Twitter: ') + blue('https://twitter.com/bahmutov'),
-  bold('  LinkedIn: ') + blue('https://linkedin.com/in/bahmutov'),
-  '',
-  'Go on, give ' +
-    bold(blue('https://github.com/cypress-io/cypress')) +
-    ' a ⭐️'
+  bold('  LinkedIn: ') + blue('https://linkedin.com/in/bahmutov')
 ]
 
 const message = lines.join('\n')
@@ -29,4 +25,9 @@ const box = boxen(message, {
   padding: 1
 })
 
-process.stdout.write(box + '\n')
+const star =
+  '    Go on, give ' +
+  bold(blue('https://github.com/cypress-io/cypress')) +
+  ' a ⭐️'
+
+process.stdout.write(box + star + '\n\n')
