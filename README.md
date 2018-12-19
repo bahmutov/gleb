@@ -1,6 +1,6 @@
-# bahmutov
+# gleb
 
-> &#34;npx bahmutov&#34; - to see my info
+> &#34;npx gleb&#34; - to see my info
 
 [![NPM][npm-icon]][npm-url]
 
@@ -16,7 +16,7 @@ Inspired by (and shamelessly copied from) `npx marius`
 Requires [Node](https://nodejs.org/en/) and NPM with `npx` utility.
 
 ```sh
-npx bahmutov
+npx gleb
 
    ╭──────────────────────────────────────────────────────────────────────────╮
    │                                                                          │
@@ -31,7 +31,7 @@ npx bahmutov
    │      Twitter: https://twitter.com/bahmutov                               │
    │     LinkedIn: https://linkedin.com/in/bahmutov                           │
    │                                                                          │
-   │   Go on, give https://github.com/cypress-io/cypress a star!              │
+   │   Go on, give https://github.com/cypress-io/cypress a ⭐️                 │
    │                                                                          │
    ╰──────────────────────────────────────────────────────────────────────────╯
 ```
@@ -47,7 +47,7 @@ Author: Gleb Bahmutov &lt;gleb.bahmutov@gmail.com&gt; &copy; 2018
 License: MIT - do anything with the code, but don't blame me if it does not work.
 
 Support: if you find any problems with this module, email / tweet /
-[open issue](https://github.com/bahmutov/bahmutov/issues) on Github
+[open issue](https://github.com/bahmutov/gleb/issues) on Github
 
 ## MIT License
 
